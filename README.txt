@@ -1,0 +1,1 @@
+Upload ALL files including music.mp3 and index.html to the ROOT of your GitHub repository. Replace existing same-named files. Music is an original instrumental loop and plays only after pressing the music button. Do not upload the ZIP itself.
